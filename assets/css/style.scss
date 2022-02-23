@@ -2,3 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+del {
+  text-decoration: none;
+  background-image: url(https://i.imgur.com/OBq3XE9.png);
+  background-repeat: repeat-x;
+  background-size: auto 88%;
+  background-position: left 26%;
+}
