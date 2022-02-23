@@ -1,7 +1,4 @@
-# Collective control of modular soft robots via embodied Spiking Neural Cellular Automata
-Paper under double-blind review.
-
-## Abstract
+# Abstract
 Voxel-based Soft Robots (VSRs) are a form of modular soft robots, composed of several deformable cubes, i.e., voxels.
 Each VSR is thus an ensemble of simple agents, namely the voxels, which must cooperate to give rise to the overall VSR behavior.
 Within this paradigm, collective intelligence plays a key role in enabling the emerge of coordination, as each voxel is independently controlled, exploiting only the local sensory information together with some knowledge passed from its direct neighbors (distributed or collective control).
