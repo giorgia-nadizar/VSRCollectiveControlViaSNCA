@@ -5,3 +5,6 @@ Within this paradigm, collective intelligence plays a key role in enabling the e
 In this work, we propose a novel form of collective control, influenced by Neural Cellular Automata (NCA) and based on the bio-inspired Spiking Neural Networks: the embodied Spiking NCA (SNCA).
 We experiment with different variants of SNCA, and find them to be competitive with the state-of-the-art distributed controllers for the task of locomotion.
 In addition, our findings show significant improvement with respect to the baseline in terms of adaptability to unforeseen environmental changes, which could be a determining factor for physical practicability of VSRs.
+
+# Videos
+[![Bipeds performing locomotion]({})]({https://github.com/anondoubleblind/VSRCollectiveControlViaSNCA/blob/main/videos/biped.mov} "Bipeds")
