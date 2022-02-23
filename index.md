@@ -7,4 +7,4 @@ We experiment with different variants of SNCA, and find them to be competitive w
 In addition, our findings show significant improvement with respect to the baseline in terms of adaptability to unforeseen environmental changes, which could be a determining factor for physical practicability of VSRs.
 
 # Videos
-[![Bipeds performing locomotion]({})]({https://github.com/anondoubleblind/VSRCollectiveControlViaSNCA/blob/main/videos/biped.mov} "Bipeds")
+![Worms performing locomotion on flat terrain](gifs/worm.gif)
