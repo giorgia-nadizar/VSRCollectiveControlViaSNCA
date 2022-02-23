@@ -7,4 +7,8 @@ We experiment with different variants of SNCA, and find them to be competitive w
 In addition, our findings show significant improvement with respect to the baseline in terms of adaptability to unforeseen environmental changes, which could be a determining factor for physical practicability of VSRs.
 
 # Videos
+![Bipeds performing locomotion on flat terrain](gifs/biped.gif)
+
+![Combs performing locomotion on flat terrain](gifs/comb.gif)
+
 ![Worms performing locomotion on flat terrain](gifs/worm.gif)
