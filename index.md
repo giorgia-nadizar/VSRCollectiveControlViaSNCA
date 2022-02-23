@@ -7,8 +7,16 @@ We experiment with different variants of SNCA, and find them to be competitive w
 In addition, our findings show significant improvement with respect to the baseline in terms of adaptability to unforeseen environmental changes, which could be a determining factor for physical practicability of VSRs.
 
 # Videos
+The following gifs display optimized VSRs performing locomotion on a flat terrain for 30 simulated seconds.
+In each gif the first VSR is controlled with a UnD-SNCA, the second with a UD-NCA, and the third with a nUD-NCA.
+We show three morphologies: biped, comb, and worm, as considered in the paper.
+
+The biped exhibits interesting behaviors with all three types of controllers.
 ![Bipeds performing locomotion on flat terrain](gifs/biped.gif)
 
+The same applies to the comb.
 ![Combs performing locomotion on flat terrain](gifs/comb.gif)
 
+Conversely, the worm displays high frequency dynamics with UD-NCA and nUD-NCA with lead to fast, yet reality-gap prone gaits.
+When controlled with UnD-SNCA this morphology is less effective, due to its low structural complexity.
 ![Worms performing locomotion on flat terrain](gifs/worm.gif)
