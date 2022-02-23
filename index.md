@@ -1,4 +1,4 @@
-# Abstract
+## Abstract
 Voxel-based Soft Robots (VSRs) are a form of modular soft robots, composed of several deformable cubes, i.e., voxels.
 Each VSR is thus an ensemble of simple agents, namely the voxels, which must cooperate to give rise to the overall VSR behavior.
 Within this paradigm, collective intelligence plays a key role in enabling the emerge of coordination, as each voxel is independently controlled, exploiting only the local sensory information together with some knowledge passed from its direct neighbors (distributed or collective control).
@@ -6,7 +6,7 @@ In this work, we propose a novel form of collective control, influenced by Neura
 We experiment with different variants of SNCA, and find them to be competitive with the state-of-the-art distributed controllers for the task of locomotion.
 In addition, our findings show significant improvement with respect to the baseline in terms of adaptability to unforeseen environmental changes, which could be a determining factor for physical practicability of VSRs.
 
-# Videos
+## Videos
 The following videos display optimized VSRs performing locomotion on a flat terrain for 30 simulated seconds.
 In each video the first VSR is controlled with a U<del>D</del>-SNCA, the second with a UD-NCA, and the third with a <del>U</del>D-NCA.
 We show three morphologies: biped, comb, and worm, as considered in the paper.
