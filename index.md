@@ -17,6 +17,6 @@ The biped exhibits interesting behaviors with all three types of controllers.
 The same applies to the comb.
 ![Combs performing locomotion on flat terrain](gifs/comb.gif)
 
-Conversely, the worm displays high frequency dynamics with UD-NCA and nUD-NCA with lead to fast, yet reality-gap prone gaits.
-When controlled with UnD-SNCA this morphology is less effective, due to its low structural complexity.
+Conversely, the worm displays high frequency dynamics with UD-NCA and <del>U</del>D-NCA with lead to fast, yet reality-gap prone gaits.
+When controlled with U<del>D</del>-SNCA this morphology is less effective, due to its low structural complexity.
 ![Worms performing locomotion on flat terrain](gifs/worm.gif)
