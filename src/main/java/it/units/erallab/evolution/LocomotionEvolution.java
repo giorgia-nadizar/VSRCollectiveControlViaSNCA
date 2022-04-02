@@ -119,7 +119,7 @@ public class LocomotionEvolution extends Worker {
     List<String> targetSensorConfigNames = l(a("sensorConfig", "spinedTouchSighted-f-f-0.01"));
     List<String> transformationNames = l(a("transformation", "identity"));
     List<String> evolverNames = l(a("evolver", "ES-40-0.35-f"));
-    List<String> mapperNames = l(a("mapper", "fixedCentralized<MLP-1-1-tanh"));
+    List<String> mapperNames = l(a("mapper", "fixedHeteroQuantSpikeDist-1-unif_mem-50-avg_mem-5-50<snnQuantFuncGrid-QMSNd-1-1-lif_h-0-1-0.01"));
     String bestFileName = a("bestFile", null);
     String lastFileName = a("lastFile", null);
     String allFileName = a("allFile", null);
