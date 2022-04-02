@@ -17,7 +17,7 @@ The content of this repository is organized into two main packages:
 ## Suggested usage
 ### Visualizing a VSR
 To visualize a VSR performing locomotion you need to run the `Starter` class, which is included in the `hmsrobots` package.
-This will start a simulation and will display a video of a three VSRs - a biped, a worm, and comb, moving downhill.
+This will start a simulation and will display a video of a three VSRs - a biped, a worm, and comb - moving downhill.
 Note that in this case we are using non-optimized VSRs, hence most of their successful movement is caused by the inclination of the terrain.
 
 ### Performing an optimization
