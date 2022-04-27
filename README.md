@@ -24,3 +24,14 @@ Note that in this case we are using non-optimized VSRs, hence most of their succ
 Evolutionary optimizations are performed by running the `LocomotionEvolution` class contained in `evolution`.
 This will start the evolution of a distributed controller for VSRs with the default parameters (listed at the beginning of the method `run()`).
 One can freely play with the parameters, which are mostly self-explanatory, either changing the source code or by using the corresponding key words from command line.
+
+## Bibliography
+Nadizar, Medvet, Nichele, Pontes-Filho. "Collective control of modular soft robots via embodied Spiking Neural Cellular Automata", Workshop on From Cells to Societies: Collective Learning across Scales (Cells2Societies@ICLR), 2022
+```
+@article{nadizar2022collective,
+  title={Collective control of modular soft robots via embodied Spiking Neural Cellular Automata},
+  author={Nadizar, Giorgia and Medvet, Eric and Nichele, Stefano and Pontes-Filho, Sidney},
+  journal={arXiv preprint arXiv:2204.02099},
+  year={2022}
+}
+```
